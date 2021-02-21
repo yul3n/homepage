@@ -1,0 +1,10 @@
+body {
+        font-family: monospace;
+        max-width: 70em;
+        text-align: justify;
+        display: block;
+        margin: auto;
+        padding: 10em;
+        background: #282828;
+        color: #ebdbb2;
+}

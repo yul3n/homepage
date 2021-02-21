@@ -1,0 +1,17 @@
+
+ _.  |_/ _  _  _ ._ _ o._ o _ _.._  _   | _
+(_|\/|_)_> (_|(/_| | ||| ||(_(_||_)_>|_||(/_
+   /        _|                  |
+
+# ~ayb
+
+Contact: ayb@3hg.fr
+
+Other places you can find me:
+=> https://sr.ht/~ayb/ sourcehut
+=> https://thunix.net/~ayb/ thunix.net
+=> gopher://sdf.org/1/users/ayb sdf
+
+# Sitemap
+=> /G Things related to a programming lanugage I am working on
+=> /blog My blog (if I end up starting it)
