@@ -1,0 +1,8 @@
+# Devlog 0
+I've started the backend by writing a small assembler for the ABC code and a disassembler to test it. Currently it doesn't check the type of arguments, however it should be straight forward to implement it using a list which would contain the types of arguments.
+
+I've also started a simple backend for x86_64 CPUs, it doesn't build basic blocks nor DAGs, since the goal is just to have an implementation working as fast as possible. Currently, a backend has only to provide functions for each instruction, so it modulable. I am not sure about the layout I'll adopt in memory. Because we could just allocate 2 blocks of memory instead of having only one and each stack at an end to have a similar treatment of the A and the B stacks, the C stack being the regular one. Since, we won't allocate more than 4G by stack we could optimize the A Stack by using 32 bits pointer, relative to the root of Heap. A possibility would be to allocate everything in the bss section and avoid dynamic allocation in the heap. I have not yet starting thinking about the garbage collection mechanism, however the book² provides several methods. I'll probably write it in C instead of assembly so I will only have to change a few things when porting it to new platforms, since the only things which should change are the structure of the nodes and size of the structures.
+
+# Interesting sources
+=> http://www.mbsd.cs.ru.nl/publications/papers/1990/groj90-CodeGenerator.ps.gz
+=> https://clean.cs.ru.nl/Functional_Programming_and_Parallel_Graph_Rewriting Functional Programming and Parallel Graph Rewriting (especially part 4)
