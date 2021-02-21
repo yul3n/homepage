@@ -1,2 +1,5 @@
 # About G
 G is a small (WIP) functional programming language based on graph reduction. It is heavily inspired by Clean and its ABC machine. It will have Hindley-Milner type inference - or dependent types later, I am not sure - and hopefully type classes.
+
+# Devlogs
+=> devlog_0.gmi

@@ -1,7 +1,7 @@
 
- _.  |_/ _  _  _ ._ _ o._ o _ _.._  _   | _
-(_|\/|_)_> (_|(/_| | ||| ||(_(_||_)_>|_||(/_
-   /        _|                  |
+ _.  |_/ _  _  _ ._ _ o._ o  _ _.._  _   | _
+(_|\/|_)_> (_|(/_| | ||| || (_(_||_)_>|_||(/_
+   /        _|                   |
 
 # ~ayb
 
@@ -9,9 +9,10 @@ Contact: ayb@3hg.fr
 
 Other places you can find me:
 => https://sr.ht/~ayb/ sourcehut
-=> https://thunix.net/~ayb/ thunix.net
+=> https://thunix.net/~ayb/ thunix
 => gopher://sdf.org/1/users/ayb sdf
 
 # Sitemap
 => G/index.gmi Things related to a programming lanugage I am working on
 => blog/index.gmi My blog (if I end up starting it)
+=> papers.gpi Papers I like
