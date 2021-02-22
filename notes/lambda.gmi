@@ -1,0 +1,23 @@
+# Lambda Calculus
+## Plan
+* Definition
+* Beta reduction
+* Alpha conversion
+* De Bruijn indices
+* Church encoding
+* Scott encoding
+* Parigot encoding
+* Stump-Fu encoding
+## Definition
+Lambda calculus is a formal mathematical system allowing expression of functions in a simple form. It has three types of expressions which, formulated in BNF are:
+```
+e ::= v      (variable)
+      (e e') (application)
+	  \v.e   (lambda abstraction)
+```
+where e and e' are expressions and v is a variable.
+Syntactic sugar is often added:
+```
+\ab.e = \a.(\b.e) where you can have an aribtrary number of variables
+f x y z = (((f x) y) z) where f can have an aribtrary number of arguments
+```

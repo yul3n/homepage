@@ -36,6 +36,6 @@
 -- Thats supposed to be a vial and an explosion
 
 # The Lab
-I'll post shitty stuff here. For your mental health, never use code or technic showed here.
+I'll post shitty stuff here. For your mental health, never use code or technics showed here. They might actually be good ideas - and I highly doubt that they are - but they are mainly shower thoughts and stupid reflections so be aware that they come without any warranty - like all open source software.
 ## Experiments
 => ./modules.gmi Namespaces in C

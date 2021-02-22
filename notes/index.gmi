@@ -1,0 +1,4 @@
+# My notes
+Be aware that they are intended for my personal use, but you may find them useful. They might also contain errors, so be vigilent - if you found one it would really help me that you sent me an email.
+=> ./lambda.gmi Lambda Calculus
+=> ./ski.gmi SKI combinators

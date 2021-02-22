@@ -1,0 +1,7 @@
+# SKI Combinators
+## Plan
+* Definition
+* Basic bracket abstraction
+* New combinators
+* Better bracket abstraction
+* Even better bracket abstraction

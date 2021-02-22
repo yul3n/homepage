@@ -17,4 +17,5 @@ Other places you can find me:
 => G/index.gmi Things related to a programming lanugage I am working on
 => blog/index.gmi My blog (if I end up starting it)
 => lab/index.gmi My shitty experiences
+=> notes/index.gmi My notes
 => papers.gmi Papers I like

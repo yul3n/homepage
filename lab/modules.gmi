@@ -1,5 +1,5 @@
 # Namespaces in C
-One of the critisiscm often made to C is that it doesn't support namespaces and modules, forcing programming to use weird prefixes before the name of their functions and variables. But what if I told you that, the following code is valid C:
+One of the critisiscm often made to C is that it doesn't support namespaces and modules, forcing programmers to use weird prefixes before the name of their functions and variables. But what if I told you that, the following code is valid C:
 ```
 #include <io.h>
 
