@@ -1,0 +1,41 @@
+```
+        _.-^^---....,,--
+    _--                  --_
+  <                        >)
+  |                         |
+   \._                   _./
+      ```--. . , ; .--'''
+             | |   |
+          .-=||  | |=-.
+          `-=#$%&%$#=-'
+             | ;  :|
+            %&$@%#&#~
+             {     }
+             | .   |
+             | .   |
+             |  .  |
+             |  .  |
+             |~~~~~|
+             |     |
+             |     |
+            /  .    \
+           /         \
+          /      .    \
+         /             \
+        /    oo         \
+       /     oo          \
+      /            .      \
+     /    o                \
+    /           @    @@     \
+   /    .        .   @@      \
+  /      ooo                  \
+ /      o   o        .         \
+/        ooo     .         o    \
+\_______________________________/
+```
+-- Thats supposed to be a vial and an explosion
+
+# The Lab
+I'll post shitty stuff here. For your mental health, never use code or technic showed here.
+## Experiments
+=> ./modules.gmi Namespaces in C

@@ -1,7 +1,8 @@
-
+```
  _.  |_/ _  _  _ ._ _ o._ o  _ _.._  _   | _
 (_|\/|_)_> (_|(/_| | ||| || (_(_||_)_>|_||(/_
    /        _|                   |
+```
 
 # ~ayb
 
@@ -15,4 +16,5 @@ Other places you can find me:
 # Sitemap
 => G/index.gmi Things related to a programming lanugage I am working on
 => blog/index.gmi My blog (if I end up starting it)
-=> papers.gpi Papers I like
+=> lab/index.gmi My shitty experiences
+=> papers.gmi Papers I like
